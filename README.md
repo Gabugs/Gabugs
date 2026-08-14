@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     🎮 Music • Games • Anime • Art
-    📖 Learning to program in PHP
+    📖 Front-end • JavaScript • C • HTML • CSS
     💼 Eron Domingues • Student • high school with vocational course
     🎓 Biopark • Student • Software Engineering
     💻 front end programming • project and systems analysis
