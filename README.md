@@ -6,6 +6,7 @@
     🎮 Music • Games • Anime • Art
     📖 Learning to program in PHP
     💼 Eron Domingues • Student • high school with vocational course
+    🎓 Biopark • Student • Software Engineering
     💻 front end programming • project and systems analysis
     • computer Science • database • mobile programming
 </pre>
